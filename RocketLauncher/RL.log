@@ -1,0 +1,35 @@
+[1/13/2019 4:01:22 PM] Initializing  Rocket Launcher 3.4
+[1/13/2019 4:01:22 PM] Current GUI Version 6/1/2018 12:00:00 AM
+[1/13/2019 4:01:22 PM] Current Release DLL Version 6/1/2018 12:00:00 AM
+[1/13/2019 4:01:22 PM] Update, found version 6/1/2018 12:00:00 AM
+[1/13/2019 4:01:23 PM] Setting up workshop and cooked paths
+[1/13/2019 4:01:23 PM] Populating workshop maps
+[1/13/2019 4:16:15 PM] Populating workshop maps
+[1/13/2019 4:16:19 PM] Backed up Underpass
+[1/13/2019 4:16:22 PM] Swapped Underpass with Yoshi Circuit
+[1/13/2019 4:32:41 PM] Exception during map swap: System.IO.IOException: The process cannot access the file 'C:\Program Files (x86)\Steam\steamapps\common\rocketleague\TAGame\CookedPCConsole\Labs_Underpass_P.upk' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at RocketLauncher_GUI.MainForm.mapSwapButton_Click(Object sender, EventArgs e)
+[1/13/2019 4:32:44 PM] Update, found version 6/1/2018 12:00:00 AM
+[1/13/2019 4:34:36 PM] AttemptInjection()
+[1/13/2019 4:34:37 PM] Injection succeeded
+[1/13/2019 4:35:17 PM] Swapped Underpass with Yoshi Circuit
+[1/13/2019 4:59:27 PM] Exception during map swap: System.IO.IOException: The process cannot access the file 'C:\Program Files (x86)\Steam\steamapps\common\rocketleague\TAGame\CookedPCConsole\Labs_Underpass_P.upk' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at RocketLauncher_GUI.MainForm.mapSwapButton_Click(Object sender, EventArgs e)
+[1/13/2019 4:59:30 PM] Exception during map swap: System.IO.IOException: The process cannot access the file 'C:\Program Files (x86)\Steam\steamapps\common\rocketleague\TAGame\CookedPCConsole\Labs_Underpass_P.upk' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at RocketLauncher_GUI.MainForm.mapSwapButton_Click(Object sender, EventArgs e)
+[1/13/2019 4:59:36 PM] Exception during map swap: System.IO.IOException: The process cannot access the file 'C:\Program Files (x86)\Steam\steamapps\common\rocketleague\TAGame\CookedPCConsole\Labs_Underpass_P.upk' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at RocketLauncher_GUI.MainForm.mapSwapButton_Click(Object sender, EventArgs e)
+[1/13/2019 4:59:38 PM] Swapped Underpass with BoosterRooster
+[1/13/2019 5:39:52 PM] Saving settings
